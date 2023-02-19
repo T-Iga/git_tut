@@ -1,1 +1,2 @@
 foo.txt is first file for Git study.
+I committed at first.
