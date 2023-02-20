@@ -8,5 +8,6 @@ not commit yet. (add C)
 and again
 =======
 
+FOOBAR
 add text on new-branch-2 (add D).
 >>>>>>> new-branch-2
