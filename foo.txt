@@ -3,4 +3,4 @@ I committed at first.
 
 created new branch "new-branch".(add B)
 
-add text on new-branch-2 (add D)
+add text on new-branch-2 (add D).
