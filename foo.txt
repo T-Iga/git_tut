@@ -2,6 +2,11 @@ foo.txt is first file for Git study.
 I committed at first.
 
 created new branch "new-branch".(add B)
+<<<<<<< HEAD
 not commit yet. (add C)
 
 and again
+=======
+
+add text on new-branch-2 (add D).
+>>>>>>> new-branch-2
